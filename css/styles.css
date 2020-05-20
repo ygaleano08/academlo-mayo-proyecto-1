@@ -91,6 +91,7 @@ a {
 
 .icon {
     font-size: 50px;
+  
   }
 .icon2{
 
@@ -98,6 +99,19 @@ a {
     font-size: 30px;
     
   }
+  .h-color:hover{
+    background-color: black;
+    color: white;
+    
+    
+  }
+
+  .icon-h:hover img{
+   background: rgba(255, 255, 255, 1);
+   color: white;
+  }
+
+ 
 
   /* Portafolio*/
   #portafolio {
